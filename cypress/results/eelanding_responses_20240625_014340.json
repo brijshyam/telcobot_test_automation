@@ -1,0 +1,28 @@
+[
+    [],
+    {
+        "prompt": "How can I get a ee telecom membership?",
+        "response": "To get an EE telecom membership, you can follow these steps:\n\nVisit the EE Website: Go to the EE website to explore the various plans and offers available.\nChoose a Plan: Browse through the wide range of pay monthly mobile phone or SIM-only plans. EE offers different plans to suit various needs, including options for students, key workers, and more.\nSign Up: Select the plan that best fits your needs and proceed to sign up. If you are eligible for any discounts (e.g., student or key worker discounts), make sure to get your discount code and apply it during the checkout process.\nComplete the Purchase: Follow the instructions to complete your purchase. You may need to undergo a credit check as part of the process.\nDownload the EE App: Once you have your membership, you can manage your account, control your WiFi, and access exclusive offers and rewards through the EE app.\n\nIf you need further assistance, you can contact EE customer support at support@EE.uk.",
+        "timeTaken": 8.992
+    },
+    {
+        "prompt": "What is the cost of a 3-month membership?",
+        "response": "I don't know. For further assistance, please contact our support team at support@EE.uk.",
+        "timeTaken": 4.56
+    },
+    {
+        "prompt": "What is the cost of a 1-year membership?",
+        "response": "I don't know. For further assistance, please contact support@EE.uk.",
+        "timeTaken": 5.685
+    },
+    {
+        "prompt": "What are the data options available?",
+        "response": "EE offers a variety of data options across different plans. Here are some of the available options:\nPay Monthly Plans\n\n\nEssentials Plan\n\n5GB Data\n10GB Data\n25GB Data\n125GB Data\nUnlimited Data\n\n\n\nAll Rounder Plan\n\n5GB Data\n10GB Data\n25GB Data\n125GB Data\nUnlimited Data\n\n\n\nFull Works Plan for iPhone\n\nUnlimited Data\n\n\n\nPay As You Go Plans\n\n\n£10 Subscription Pack\n\n8GB Data\n20GB Data\n\n\n\n£15 Subscription Pack\n\n25GB Data\n50GB Data\n\n\n\n£20 Subscription Pack\n\n50GB Data\n100GB Data\n\n\n\n£30 Subscription Pack\n\n125GB Data\n\n\n\nAdditional Features\n\nStay Connected Data: Ensures you stay connected even if you run out of your main data allowance.\nData Gifting: Allows you to move any spare data from your plan to your family’s devices.\n\nIf you need more specific details or assistance with choosing a plan, feel free to ask!",
+        "timeTaken": 11.362
+    },
+    {
+        "prompt": "Can I add unlimited talk and text to my membership?",
+        "response": "Please select a service typeRoaming DataSIM CardTalk and Text Add-onVoicemailTravel Data",
+        "timeTaken": 4.885
+    }
+]
